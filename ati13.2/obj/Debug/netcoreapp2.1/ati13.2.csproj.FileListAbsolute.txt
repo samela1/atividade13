@@ -1,0 +1,11 @@
+C:\Users\Solange\Documents\aqui\ati13.2\ati13.2\bin\Debug\netcoreapp2.1\ati13.2.deps.json
+C:\Users\Solange\Documents\aqui\ati13.2\ati13.2\bin\Debug\netcoreapp2.1\ati13.2.runtimeconfig.json
+C:\Users\Solange\Documents\aqui\ati13.2\ati13.2\bin\Debug\netcoreapp2.1\ati13.2.runtimeconfig.dev.json
+C:\Users\Solange\Documents\aqui\ati13.2\ati13.2\bin\Debug\netcoreapp2.1\ati13.2.dll
+C:\Users\Solange\Documents\aqui\ati13.2\ati13.2\bin\Debug\netcoreapp2.1\ati13.2.pdb
+C:\Users\Solange\Documents\aqui\ati13.2\ati13.2\obj\Debug\netcoreapp2.1\ati13.2.csprojAssemblyReference.cache
+C:\Users\Solange\Documents\aqui\ati13.2\ati13.2\obj\Debug\netcoreapp2.1\ati13.2.csproj.CoreCompileInputs.cache
+C:\Users\Solange\Documents\aqui\ati13.2\ati13.2\obj\Debug\netcoreapp2.1\ati13.2.AssemblyInfoInputs.cache
+C:\Users\Solange\Documents\aqui\ati13.2\ati13.2\obj\Debug\netcoreapp2.1\ati13.2.AssemblyInfo.cs
+C:\Users\Solange\Documents\aqui\ati13.2\ati13.2\obj\Debug\netcoreapp2.1\ati13.2.dll
+C:\Users\Solange\Documents\aqui\ati13.2\ati13.2\obj\Debug\netcoreapp2.1\ati13.2.pdb
